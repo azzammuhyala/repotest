@@ -7,6 +7,8 @@
     </b>
 </p>
 
+[Syntax](syntax/index.md)
+
 # PyScript
 
 <p align="center">
@@ -27,3 +29,4 @@ Mungkin PyScript dikenal bukanlah bahasa yang akan kita bahas, tetapi sebenarnya
 
 
 Bahasa ini tidak di rancang untuk masuk sebagai bahasa pemprograman modern yang bersaing dengan bahasa lain, tetapi bahasa ini sebagai metode pembelajaran soal bagaimana bahasa pemprograman bekerja dan cara sebuah kode yang manusia tulis bisa di mengerti oleh mesin. Selain daripada itu, bahasa ini dibuat sebagai projek yang cukup kompleks. Dengan bahasa Python sebagai dasar pembuatan bahasa PyScript dengan sintaksnya yang cukup mudah dipahami membuatnya bisa menjadi mudah di mengerti soal bagaimana bahasa itu dibuat tanpa memahami tentang instruksi lain yang kompleks seperti di C, C++, dan bahasa tingkat rendah lain.
+
